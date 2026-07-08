@@ -2,13 +2,15 @@
             background-color: black;
             text-align: center;
             color: whitesmoke;
+            font-family: fantasy;
+            text-decoration: underline dotted;
         }
 
         p{
             background-color: black;
             color: aliceblue;
             text-align: left;
-            font-size: larger;
+            font-size:large ;
         }
 
         .hello-finland{
