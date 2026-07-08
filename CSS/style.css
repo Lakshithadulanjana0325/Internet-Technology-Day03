@@ -3,3 +3,18 @@
             text-align: center;
             color: whitesmoke;
         }
+
+        p{
+            background-color: black;
+            color: aliceblue;
+            text-align: left;
+            font-size: larger;
+        }
+
+        .hello-finland{
+            background-color: blue;
+        }
+
+        .hello-sri{
+            background-color: cornflowerblue;
+        }
