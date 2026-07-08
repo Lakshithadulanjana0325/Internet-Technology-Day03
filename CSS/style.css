@@ -18,3 +18,13 @@
         .hello-sri{
             background-color: cornflowerblue;
         }
+
+        .pragh{
+            background-color: black;
+            color: cornflowerblue;
+        }
+        
+        #pgback{
+            background-color: blue;
+            color: firebrick;
+        }
