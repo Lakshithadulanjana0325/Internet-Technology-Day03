@@ -20,11 +20,15 @@
         }
 
         .pragh{
-            background-color: black;
-            color: cornflowerblue;
+            background-color:cornflowerblue;
+            color:whitesmoke;
         }
         
         #pgback{
             background-color: blue;
-            color: firebrick;
+            color: beige;
+        }
+
+        * {
+            background-color:black;
         }
