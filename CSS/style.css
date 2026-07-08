@@ -15,10 +15,15 @@
 
         .hello-finland{
             background-color: blue;
-        }
+            padding: 20px 50px 50px 100px;
+        } 
 
         .hello-sri{
             background-color: cornflowerblue;
+            padding-bottom: 20px;
+            padding-top: 20px;
+            padding-right: 50px;
+            padding-left: 50px;
         }
 
         .pragh{
@@ -31,8 +36,8 @@
             color: beige;
         }
 
-        * {
+        /* * {
             background-color:black;
-            margin: 0;
-            padding: 0;
-            }
+            /* margin: 0;
+            padding: 0; */
+            } */
