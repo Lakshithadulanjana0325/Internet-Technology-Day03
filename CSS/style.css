@@ -35,6 +35,8 @@
         .pragh{
             background-color:cornflowerblue;
             color:whitesmoke;
+            padding: 20px;
+            margin: 20px;
         }
         
         #pgback{
@@ -53,5 +55,26 @@ body{
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
+}
+#box01{
+    width: 50px;
+    height: 50px;
+    background-color: brown;
+    position: relative;
+    bottom: 20px;
+    top: 20px;
+    right: 50px;
+    left: 50px;
+}
+
+#box02{
+    width: 100px;
+    height: 100px;
+    background-color: darkgreen;
+    position: absolute;
+    bottom: 20px;
+    top: 20px;
+    right: 50px;
+    left: 50px;
 
 }
